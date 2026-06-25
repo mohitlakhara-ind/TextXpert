@@ -1,0 +1,14 @@
+{
+  "name": "TextXpert",
+  "description": "Professional utility codebase built with HTML.",
+  "topics": [
+    "html",
+    "utility",
+    "optimized-portfolio"
+  ],
+  "homepage_url": "https://github.com/mohitlakhara-ind/TextXpert",
+  "private": false,
+  "has_issues": true,
+  "has_projects": true,
+  "has_wiki": true
+}
